@@ -1,0 +1,11 @@
+10: 6 seconds
+20: 45 seconds
+30: 24 seconds
+40: 102 seconds
+50: 235 seconds
+60: 90 seconds
+64: 318 seconds
+
+V2: compute (f x) once rather than three times
+
+30: 59 seconds
